@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning GeneXus<br>🎯 Goals: Live the process and compile without errors<br>🎲 Fun fact: record of pizza slices: 7</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning GeneXus<br>🎯 Goals: Live the process and compile without errors<br>🎲 Fun fact: record of pizza slices: 7</p>
 
 ###
 
