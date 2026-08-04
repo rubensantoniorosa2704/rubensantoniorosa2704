@@ -1,8 +1,8 @@
 # Hey, I'm Rubens 👋
 
-Backend engineer based in Brazil, with 2 years of professional experience and a habit of going way too deep into problems — not because I have to, but because I genuinely need to understand *why* things work the way they do.
+Backend software engineer based in Brazil. For me, technology has always been a tool to solve real problems and help people. I have a habit of going deep into problems not just to make things work, but to truly understand *why* and *how* they work.
 
-I'm currently sharpening my Go skills, building microservices with clean architecture, and learning something new every day.
+I spend most of my time writing **Go**, building microservices, and contributing to open-source projects because I believe we grow much further when we build together.
 
 ---
 
@@ -11,41 +11,41 @@ I'm currently sharpening my Go skills, building microservices with clean archite
 ```go
 stack := map[string][]string{
     "main":  {"Go", "PostgreSQL", "gRPC", "Docker"},
-    "also":  {"Python", "Node.js", "REST", "SQL"},
-    "ideas": {"Hexagonal Architecture", "DDD", "Clean Code"},
+    "also":  {"TypeScript", "Python", "REST"},
+    "focus": {"Clean Architecture", "Open Source", "Backend"},
 }
+
 ```
 
 ---
 
 ## 🚀 What I'm building
 
-- **[auth-service](https://github.com/rubensantoniorosa2704/auth-service)** — Production-grade authentication microservice in Go. gRPC, Argon2id, JWT, hexagonal architecture, timing attack protection.
-- **[logging-service](https://github.com/rubensantoniorosa2704/log-service)** — Real-time log streaming via Server-Sent Events (SSE).
-- Contributing to open source Go projects — reading other people's code is one of the best ways to grow.
+* **[schemaPing](https://github.com/rubensantoniorosa2704/schemaping-workerSchemaPing)** — Detect API schema drift before your integrations break. Monitors HTTP JSON endpoints, compares response structures over time, and alerts you in the terminal or via webhooks.
+* **[inex-ingest](https://github.com/rubensantoniorosa2704/inex-ingest)** — A small, composable CLI that downloads and extracts INEP higher-education microdata, driven by declarative config files and tracked by per-dataset manifests so nothing is downloaded twice.
+* **[auth-service](https://github.com/rubensantoniorosa2704/auth-service)** — An authentication microservice in Go. Built with hexagonal architecture, Argon2id, JWT, and timing attack protection.
+* **[logging-service](https://github.com/rubensantoniorosa2704/log-service)** — Real-time log streaming via Server-Sent Events (SSE).
+* **Open Source** — Actively reading, learning, and contributing to other codebases. I love the collaborative spirit of the community.
 
 ---
 
-## 🧠 How I work
+## 💡 How I approach software
 
-I'm the kind of engineer who dives deep into a task before writing a single line of code. I want to understand the problem fully — the constraints, the tradeoffs, the *why* behind the decisions. That curiosity sometimes makes me slower, but it makes the solution better.
-
-I care a lot about:
-- Writing code that others can read and trust
-- Making intentional architectural decisions
-- Learning the fundamentals, not just the framework
+* **People first:** Code is written by humans, for humans. Clarity, empathy, and maintainability matter more than cleverness.
+* **Curiosity:** I prefer understanding the fundamentals and constraints deeply before writing the first line of code.
+* **Craft:** Caring about the details because they compound over time.
 
 ---
 
-## 🎮 Beyond the terminal
+## 🌿 Beyond the terminal
 
-When I'm not coding, I'm probably reading a book, playing video games, listening to music, or just taking a walk to let ideas settle.
+When I'm away from the screen, you'll usually find me outside enjoying nature, listening to some Masayoshi Takanaka, or just taking a walk to let ideas settle and recharge.
 
 ---
 
 ## 📬 Let's connect
 
-I'm open to remote backend opportunities — especially teams that care about craft and engineering quality.
+I'm always open to talking about backend development, open-source, or interesting ideas. Let's chat!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rubens%20Antonio%20Rosa-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rubens-rosa-a927081b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-rubensantoniorosa2704-181717?style=flat&logo=github)](https://github.com/rubensantoniorosa2704)
+[](https://www.linkedin.com/in/rubens-rosa-a927081b4/)
+[](https://www.google.com/search?q=https://github.com/rubensantoniorosa2704)
