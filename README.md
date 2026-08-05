@@ -14,7 +14,6 @@ stack := map[string][]string{
     "also":  {"TypeScript", "Python", "REST"},
     "focus": {"Clean Architecture", "Open Source", "Backend"},
 }
-
 ```
 
 ---
